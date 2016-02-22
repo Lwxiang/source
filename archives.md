@@ -4,7 +4,7 @@ layout: page
 
 ---
 
-## Books
+# Books
 
 ##### 2015 
 
@@ -12,7 +12,7 @@ layout: page
 
 * May. [<<奇鸟行状录>>](http://book.douban.com/subject/1212080/ "豆瓣读书") `Done`
 
-## Movies
+# Movies
 
 ##### 2016
 
@@ -26,7 +26,7 @@ layout: page
 
 * Oct. 28 [<<指环王三部曲/The Lord of the Rings:1~3>>](http://movie.douban.com/subject/1291571/ "豆瓣电影") `Done`
 
-## Exercitation
+# Exercitation
 
 ##### 2015 
 
@@ -36,4 +36,4 @@ layout: page
 
 ##### 2014 
 
-* July. ~ Aug. [International School of Software](http://iss.whu.edu.cn/ "homepage") / experiment
+* July. ~ Aug. [International School of Software](http://iss.whu.edu.cn/ "homepage") / Experiment
