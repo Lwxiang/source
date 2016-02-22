@@ -10,15 +10,15 @@ layout: page
 
 * June. [<<失乐园>>](http://book.douban.com/subject/1008074/ "豆瓣读书") `Not yet`
 
-* May. [<<奇鸟行状录>>](http://book.douban.com/subject/1212080/ "豆瓣读书") ·Done`
+* May. [<<奇鸟行状录>>](http://book.douban.com/subject/1212080/ "豆瓣读书") `Done`
 
 ## Movies
 
 ### 2016
 
-* Feb. 3 [<<功夫熊猫3/Kung Fu Panda 3](http://movie.douban.com/subject/11589036/ “豆瓣电影") ·Done`
+* Feb. 3 [<<功夫熊猫3/Kung Fu Panda 3](http://movie.douban.com/subject/11589036/ “豆瓣电影") `Done`
 
-* Jan. 17 [<<燃情主厨/Burnt>>](http://movie.douban.com/subject/21263664/ “豆瓣电影") ·Done`
+* Jan. 17 [<<燃情主厨/Burnt>>](http://movie.douban.com/subject/21263664/ “豆瓣电影") `Done`
 
 ### 2015
 
@@ -30,7 +30,7 @@ layout: page
 
 ### 2015 
 
-* Oct. ~ Dec. [geetest](http://www.geetest.com/ "homepage") Python Develop
+* Oct. ~ Dec. [geetest](http://www.geetest.com/ "homepage") / Python Develop
 
 * July. ~ Aug. [BDCCL](http://www.bdcclab.com/ "homepage") / Java Develop
 
