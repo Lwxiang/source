@@ -47,6 +47,6 @@ tags:
 
 附上截图:
 
-![host](../host.png)
+![host](host.png)
 
-![game](../game.png)
+![game](game.png)
